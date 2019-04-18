@@ -10,3 +10,4 @@
 | dG | 커서부터 모두 삭제 |
 | cp file6.md /data/www | file6.md 파일을 /data/www로 복사 |
 | df -h | 구조와 용량 확인 |
+| cp -r 원본폴더 목적지폴더 | 폴더 통째로 복사 붙어넣기 |
